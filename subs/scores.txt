@@ -1,0 +1,2 @@
+only_user_effect.txt 	0.864072807677
+only_user_effect_squared.txt.gz 0.776366814466	
